@@ -93,8 +93,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "Dog site"
+    author: ianboyko
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -127,13 +127,13 @@ params:
         Content: >
             Welcome to demo of Hazel Jade in PaperMod for Hugo.
 
-    socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: RsS
-          url: "index.xml"
+    # socialIcons:
+    #     - name: github
+    #       url: "https://github.com/adityatelange/hugo-PaperMod"
+    #     - name: KoFi
+    #       url: "https://ko-fi.com/adityatelange"
+    #     - name: RsS
+    #       url: "index.xml"
 
     # label:
     #     text: "Home"
