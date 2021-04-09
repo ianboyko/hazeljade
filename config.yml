@@ -123,15 +123,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Hazel Jade"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            Welcome to demo of Hazel Jade in PaperMod for Hugo.
 
     socialIcons:
         - name: github
